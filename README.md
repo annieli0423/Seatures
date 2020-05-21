@@ -1,5 +1,5 @@
 <h1> Azalea </h1>
-<img src="Azalea.jpg" width="300" height="214">
+<img src="Azalea.jpg" width="100" height="214">
 <h2> Bloom time: March to September </h2>
 <p> For more references, please click <a href="https://www.azaleas.org/azalea-basics/">The Azalea Society of America</a>.</p>
 
