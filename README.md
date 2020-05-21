@@ -1,7 +1,6 @@
-# The Best Creatures of Seattle
-## I love Seattle
-### This is my own page
-<h1> I love Seattle </h1>
-<p> Who loves Seattle? </p>
-<a href="http://www.google.com">Google</a>
-<img src="1958784204.jpg">
+<h1> Azalea </h1>
+<img src="Azalea.jpg">
+<h2> Bloom time: March to September </h2>
+<p> More references: </p>
+<a href="https://www.azaleas.org/azalea-basics/">The Azalea Society of America</a>
+
