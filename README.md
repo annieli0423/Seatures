@@ -3,6 +3,7 @@
 <h2>Bloom time: March to September</h2>
 <p>For more references, please click <a href="https://www.azaleas.org/azalea-basics/">The Azalea Society of America</a>.</p>
 
+
 <h1>Poppy</h1>
 <img src="Poppy.jpg" alt="Poppy" width="500">
 <h2>Bloom time: May to August</h2>
