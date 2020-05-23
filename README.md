@@ -4,4 +4,4 @@
 <p>For more references, please click <a href="https://www.azaleas.org/azalea-basics/">The Azalea Society of America</a>.</p>
 
 <h1>Poppy</h1>
-<img src="Azalea.jpg" alt="Azalea" width="500">
+<img src="Poppy.jpg" alt="Azalea" width="500">
